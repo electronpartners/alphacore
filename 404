@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<center>
+<h1>Error 404</h1>
+
+<p>
+The URL you requested doesn't present itself on the server, maybe try going back to our homepage? Or email our support at electronsupport@pm.me
+</p>
+
+<a href="/en/home">
+<button>
+ 
+Return to Homepage
+
+</button>
+</a>
+</center>
+    <center>
+<font size="1">
+
+<p>Support: electronsupport@pm.me</p>
+
+
+<p>Copyright (©) 2022 Electron Technology Partners, GP</p>
+
+
+
+<a href="/license.htm" target="_blank" >
+<button>
+
+  This Site is Licensed Under the MIT License
+  
+</button>
+</font>
+      
+    </center>
+</a>
+<center>
+<a href="//www.dmca.com/Protection/Status.aspx?ID=7fce4d3f-0abb-4d38-bb34-e68b4fca546b" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=7fce4d3f-0abb-4d38-bb34-e68b4fca546b"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+  </center>

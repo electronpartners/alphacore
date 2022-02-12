@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Hod - About</title>
+    <link rel="stylesheet" href="style.css">
+     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="icon" type="image/x-icon" href="https://th.bing.com/th/id/R.64dae344158ab122e2100093412ba898?rik=e3xF4TbPwBJ3ow">
+  </head>
+  <body>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Hod">
+  <meta name="keywords" content="HTML, CSS, JavaScript, Hod">
+  <meta name="author" content="Hod">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+    <div class="" data-aos="fade-right"style="font-family:Verdana; text-align: center;">  <p style="text-align: right;"><a href="https://twitter.com/that_hod" target="_blank"><img src="https://www.clipartmax.com/png/middle/306-3062721_twitter-icon-flat-circle.png" alt="" width="32" height="34" /></a></p> </div>
+     <div class="" data-aos="fade-right"style="font-family:Verdana; text-align: center;"> 
+    <p style="text-align: right;"><a title="hodss" href="https://github.com/hodss" target="_blank"><img src="https://th.bing.com/th/id/R.9230943f4e960d4311f3c8b9c28d92ab?rik=SCK0sB8EXFwNkA&amp;pid=ImgRaw&amp;r=0" alt="" width="32" height="34" /></a></p>
+     </div>
+
+
+ 
+
+    
+    
+    
+
+    
+      <div class="container">
+<div class="title" data-aos="fade-right"style="font-family:Verdana; text-align: center;"</div>
+Hod
+  </div>
+
+    
+    <div class="container">
+
+          <div class="div" data-aos="fade-right" style="font-family:Verdana; text-align: center;">
+            Hod <br></br> HTML, Lua, and JavaScript Front End Developer
+          </div>
+
+      
+
+
+    </div>
+
+<div class="container">
+
+          <div class="title" data-aos="fade-right" style="font-family:Verdana; text-align: center;">
+Some of my projects include:
+          </div>
+
+    
+
+    
+   <div class="container">
+
+          <div class="div" data-aos="fade-right" style="font-family:Verdana; text-align: center;">
+
+            
+            
+            <a href="https://codetrainer.42web.io"> <p style="font-family:Verdana; text-align: center; color: #fcf8f7">
+
+CodeTrainer
+              
+            </p> </a>
+          </div>
+
+      
+
+
+    </div>
+
+
+<div class="container">
+
+          <div class="titlel" data-aos="fade-right" style="font-family:Verdana; text-align: center;">
+
+Want to Contact Me? <br></br> hodsscollection@pm.me
+          </div>
+
+
+
+</div>
+
+
+  
+    
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({
+        duration: 1500,
+        once: true,
+      });
+    </script>
+
+    <center>
+<font size="1">
+<p>Copyright (©) 2022 hodsscollection</p>
+
+
+
+<a href="https://pastebin.com/raw/YWUNGt2q" target="_blank" >
+<button>
+
+  This Site is Licensed Under the GNU AGPLv3 License
+  
+</button>
+</font>
+      
+    </center>
+</a>
+
+
+  </body>
+</html>
+
